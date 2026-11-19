@@ -1,0 +1,5 @@
+# Hand Control Camera v0.1 official release checksum
+# Generate with: Get-FileHash .\Hand-Control-Camera-v0.1-Setup.exe -Algorithm SHA256
+# Download installers only from this repository's official GitHub Releases page.
+
+d4874e23555ce6cef7e0ae38a2687df1b34e5cefc92f6fac4a4e36699442781c  Hand-Control-Camera-v0.1-Setup.exe
